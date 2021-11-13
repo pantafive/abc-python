@@ -1,0 +1,7 @@
+.*
+*.pyc
+
+!.dockerignore
+!.github
+!.gitignore
+!.pre-commit-config.yaml
